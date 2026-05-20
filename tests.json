@@ -1,0 +1,10 @@
+{
+  "tests": [
+    {
+      "name": "Google Test",
+      "url": "https://www.google.com",
+      "method": "GET",
+      "expected_status": 200
+    }
+  ]
+}
